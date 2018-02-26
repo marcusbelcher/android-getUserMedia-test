@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_home_black_24dp"
+        android:id="@+id/navigation_custom"
+        android:title="@string/title_custom" />
+    <item
+        android:icon="@drawable/ic_home_black_24dp"
+        android:id="@+id/navigation_webrtc"
+        android:title="@string/title_webrtc" />
+    <item
+        android:icon="@drawable/ic_refresh_black_24dp"
+        android:id="@+id/navigation_refresh"
+        android:title="@string/title_refresh" />
+    <item
+        android:icon="@drawable/ic_arrow_forward_black_24dp"
+        android:id="@+id/navigation_open"
+        android:title="@string/title_open" />
+
+</menu>
