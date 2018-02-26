@@ -13,7 +13,7 @@ This repo is a simple test case for anyone to use - as is - to check JavaScript 
 - https://webrtc.org/native-code/android/
 
 ## Issues encountered
-- Java Versions: API 21, Androud Studio 3+, WebRTC dependency requires Graddle build settings need the following to allow API level 21 to 26.  
+- Java Versions: API 21, Androud Studio 3+, WebRTC dependency requires Graddle build settings to have the following to allow API level 21 to 26.  
     `compileOptions {
         targetCompatibility 1.8
         sourceCompatibility 1.8
